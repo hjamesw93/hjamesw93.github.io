@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /
 ---
 
 I am a software engineer, recent Computer Science Graduate and amateur photographer based in Berkshire, England.
