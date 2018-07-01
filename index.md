@@ -17,6 +17,6 @@ Outside of work I am interested in Landscape photography - currently exploring S
 
 GitHub profile:
 
-{% include icon-github.html username="hjamesw93" %}
+{% include icon-github.html username="hjmsw" %}
 
 
