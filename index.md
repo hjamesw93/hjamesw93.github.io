@@ -10,10 +10,7 @@ I work remotely for [Memiah Ltd](http://www.memiah.co.uk/).
 
 I am available for contract work and specialise in web development in PHP and Node.js.
 
-Outside of work I have a keen interest in photography. I mostly post on Flickr and Instagram:
-
-[flickr](https://www.flickr.com/photos/j1mb093)
-[instagram](https://www.instagram.com/jhardingphoto/)
+Outside of work I have a keen interest in photography. I mostly post on [Flickr](https://www.flickr.com/photos/j1mb093) and [Instagram](https://www.instagram.com/jhardingphoto/).
 
 GitHub profile:
 
