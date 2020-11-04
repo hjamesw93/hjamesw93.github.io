@@ -4,13 +4,13 @@ title: About
 permalink: /
 ---
 
-I am a software engineer / web developer, Computer Science graduate and amateur photographer from Berkshire, England. I'm currently based in Angus, Scotland.
+I am a software engineer, computer science graduate and amateur photographer from the UK, currently based in Scotland.
 
-I currently work remotely for [Memiah Ltd](http://www.memiah.co.uk/).
+I work remotely for [Memiah Ltd](http://www.memiah.co.uk/).
 
-I am available for freelance work and specialise in web development in PHP, with experience in Symfony, Laravel & Wordpress.
+I am available for contract work and specialise in web development in PHP and Node.js.
 
-Outside of work I am interested in Landscape photography - currently exploring Scotland! My photography can be seen below:
+Outside of work I have a keen interest in photography. I mostly post on Flickr and Instagram:
 
 [flickr](https://www.flickr.com/photos/j1mb093)
 [instagram](https://www.instagram.com/jhardingphoto/)
